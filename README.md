@@ -5,8 +5,8 @@
 <p align="center">
   • <a href="https://twitter.com/denzelwamburu">Twitter</a>
   • <a href="https://wamburu.codes">Resume</a>
-  • <a href="http://blog.wamburu.codes">Blog</a>
-  • <a href="http://github.com/wamburu/dotfiles">Dotfiles</a> •
+  • <a href="https://blog.wamburu.codes">Blog</a>
+  • <a href="https://github.com/wamburu/dotfiles">Dotfiles</a> •
 
 </p>
 
@@ -47,7 +47,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><strong>🤓 Technologies am learning: </strong></summary>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
@@ -56,21 +56,15 @@
 
 </details>
 
-<table>
-<tr><th>Dev Stats </th> <th></th></tr>
-<tr><td>
+<summary><strong>📈 Dev Stats: </strong></summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wamburu&show_icons=true&count_private=true&theme=merko" alt="wamburu" /> </p>
-
-</td><td>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-</td></tr>
-</table>
+| <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wamburu&show_icons=true&count_private=true&theme=merko" alt="wamburu" /> </p> 	| <!--START_SECTION:waka--><br><br><!--END_SECTION:waka--> 	|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------	|
 
 <summary><strong>🎧 Current Media Consumption: </strong></summary>
 
 <table>
+
 <tr><th>Books/Essays </th> <th>Podcasts/Music</th></tr>
 <tr><td>
 
