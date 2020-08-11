@@ -57,9 +57,20 @@
 </details>
 
 <summary><strong>📈 Dev Stats: </strong></summary>
+<br>
+<table>
+<tr><td>
 
-| <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wamburu&show_icons=true&count_private=true&theme=merko" alt="wamburu" /> </p> 	| <!--START_SECTION:waka--><!--END_SECTION:waka--> 	|
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------	|
+<a>
+  <img src="https://github-readme-stats.vercel.app/api?username=wamburu&show_icons=true&count_private=true&theme=merko&hide=contribs" alt="wamburu" /> 
+</a>
+</td><td>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</td></tr>
+</table>
 
 <summary><strong>🎧 Current Media Consumption: </strong></summary>
 
