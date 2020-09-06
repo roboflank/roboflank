@@ -4,8 +4,8 @@
 
 <p align="center">
   • <a href="https://twitter.com/denzelwamburu">Twitter</a>
-  • <a href="https://wamburu.codes">Resume</a>
-  • <a href="https://blog.wamburu.codes">Blog</a>
+  • <a href="https://resume.wamburu.codes">Resume</a>
+  • <a href="https://wamburu.codes">Blog</a>
   • <a href="https://github.com/wamburu/dotfiles">Dotfiles</a> •
 
 </p>
