@@ -51,7 +51,6 @@ Arduino      1 hr 4 mins     ██░░░░░░░░░░░░░░░
 | Title                                                                                               |                        Topic |
 | --------------------------------------------------------------------------------------------------- | ---------------------------: |
 | [Anti-Fragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)       | Mental Models, Contrarianism |
-| [Essays](https://www.notion.so/b64d5144c7cc4c7a991119eff4588428?v=4c2dba4120a644768db4a0d42839f491) |        Everything in between |
 | [Less Wrong](https://www.lesswrong.com)                                                             |                AI, Reasoning |
 | [WeeklyRobotics](https://weeklyrobotics.com/)                                                       |                     Robotics |
 | [YC Library](https://www.ycombinator.com/library)                                                   |                     Startups |
