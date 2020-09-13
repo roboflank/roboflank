@@ -1,7 +1,5 @@
 <h2 align="center">Hey, I'm Denzel<img src="https://github.com/wamburu/wamburu/raw/master/assets/hi.gif" width="23px"></h2>
 
-<br/>
-
 <p align="center">
   • <a href="https://twitter.com/denzelwamburu">Twitter</a>
   • <a href="https://resume.wamburu.codes">Resume</a>
@@ -10,18 +8,17 @@
 
 </p>
 
-- 🕵🏿‍♂️ I’m currently looking for opportunities in **Software Development**;
-- 🌱 I’m currently learning **Computer Vision, DL & Data Eng**;
-- 💬 Ask me about **FullStack Dev, Alignment Theory, Robotics**;
-- 🤔 I’m looking for help with **Reinforcement Learning** 👾;
+- 🕵🏿‍♂️ Currently looking for opportunities in **Software Development**;
+- 🌱 Currently learning **Computer Vision, DL & Data Eng**;
+- 💬 Ask me about **Platforms, Alignment Theory, Robotics**;
+- 🤔 Looking for help with **Reinforcement Learning** 👾;
 - ⚙️ Favourite rules of thumb: [Akins](https://spacecraft.ssl.umd.edu/akins_laws.html), [Embedded](https://embeddedartistry.com/blog/2018/04/26/embedded-rules-of-thumb/)
 - ⚡ Fun fact: Love exploring contrarian ideas on how to build the future.
 
-### 📕 Latest Writings
+#### 📕 Latest Writings
 
-- [Platforming the future:Safaricom](https://wamburu.codes/Platforming-the-future:-Safaricom)
+- [Platforming the future:How Safaricom can Platform the future of Retail](https://wamburu.codes/Platforming-the-future:-Safaricom)
 
-<details>
 <summary><strong>📈 Dev Stats: </strong></summary>
 <br>
 <table>
@@ -46,7 +43,8 @@ JSON         58 mins         ▓░░░░░░░░░░░░░░░░
 
 </td></tr>
 </table>
-</details>
+
+<details>
 
 <summary><strong>🎧 Current Media Consumption: </strong></summary>
 
@@ -69,3 +67,4 @@ JSON         58 mins         ▓░░░░░░░░░░░░░░░░
 </a>
 </td></tr>
 </table>
+</details>
