@@ -14,10 +14,14 @@
 - 🌱 I’m currently learning **Computer Vision, DL & Data Eng**;
 - 💬 Ask me about **FullStack Dev, Alignment Theory, Robotics**;
 - 🤔 I’m looking for help with **Reinforcement Learning** 👾;
-- 👯 I’m looking to collaborate on any open-source projects 🤝;
-- 📫 How to reach me: [@denzelwamburu](https://twitter.com/denzelwamburu) on Twitter;
 - ⚙️ Favourite rules of thumb: [Akins](https://spacecraft.ssl.umd.edu/akins_laws.html), [Embedded](https://embeddedartistry.com/blog/2018/04/26/embedded-rules-of-thumb/)
-- ⚡ Fun fact: Big fan of contrarian ideas on how to build the future.
+- ⚡ Fun fact: Love exploring contrarian ideas on how to build the future.
+
+### 📕 Latest Writings
+
+- [Platforming the future:Safaricom](https://wamburu.codes/Platforming-the-future:-Safaricom)
+
+<details>
 <summary><strong>📈 Dev Stats: </strong></summary>
 <br>
 <table>
@@ -29,17 +33,20 @@
 </td><td>
 
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   17 hrs 20 mins  ███████████▒░░░░░░░░░░░░░   45.22 % 
-Python       13 hrs 5 mins   ████████▓░░░░░░░░░░░░░░░░   34.12 % 
-Other        4 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Markdown     1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-JSON         58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+TypeScript   17 hrs 20 mins  ███████████▒░░░░░░░░░░░░░   45.22 %
+Python       13 hrs 5 mins   ████████▓░░░░░░░░░░░░░░░░   34.12 %
+Other        4 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
+Markdown     1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+JSON         58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
+
 <!--END_SECTION:waka-->
 
 </td></tr>
 </table>
+</details>
 
 <summary><strong>🎧 Current Media Consumption: </strong></summary>
 
@@ -48,13 +55,12 @@ JSON         58 mins         ▓░░░░░░░░░░░░░░░░
 <tr><th>Books/Essays </th> <th>Podcasts/Music</th></tr>
 <tr><td>
 
-| Title                                                                                               |                        Topic |
-| --------------------------------------------------------------------------------------------------- | ---------------------------: |
-| [Anti-Fragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)       | Mental Models, Contrarianism |
-| [Less Wrong](https://www.lesswrong.com)                                                             |                AI, Reasoning |
-| [WeeklyRobotics](https://weeklyrobotics.com/)                                                       |                     Robotics |
-| [YC Library](https://www.ycombinator.com/library)                                                   |                     Startups |
-| [Money Stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine)               |           Finance, Economics |
+| Title                                                                                         |                        Topic |
+| --------------------------------------------------------------------------------------------- | ---------------------------: |
+| [Anti-Fragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) | Mental Models, Contrarianism |
+| [Less Wrong](https://www.lesswrong.com)                                                       |                AI, Reasoning |
+| [WeeklyRobotics](https://weeklyrobotics.com/)                                                 |                     Robotics |
+| [YC Library](https://www.ycombinator.com/library)                                             |                     Startups |
 
 </td><td>
 
