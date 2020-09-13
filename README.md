@@ -2,9 +2,9 @@
 
 <p align="center">
   • <a href="https://twitter.com/denzelwamburu">Twitter</a>
-  • <a href="https://resume.wamburu.codes">Resume</a>
   • <a href="https://wamburu.codes">Blog</a>
   • <a href="https://github.com/wamburu/dotfiles">Dotfiles</a> •
+  • <a href="https://resume.wamburu.codes">Resume</a>
 
 </p>
 
@@ -17,11 +17,11 @@
 
 #### 📕 Latest Writings
 
-<!--START_SECTION:feed-->
+<!--START_SECTION:posts-->
+...
+<!--END_SECTION:posts-->
 
-<!--END_SECTION:feed-->
-
-<summary><strong>📈 Dev Stats: </strong></summary>
+<summary><strong>📈 Dev Stats </strong></summary>
 <br>
 <table>
 <tr><td>
@@ -48,7 +48,7 @@ JSON         58 mins         ▓░░░░░░░░░░░░░░░░
 
 <details>
 
-<summary><strong>🎧 Current Media Consumption: </strong></summary>
+<summary><strong>🎧 Current Media Consumption </strong></summary>
 
 <table>
 
