@@ -17,7 +17,9 @@
 
 #### 📕 Latest Writings
 
-- [Platforming the future:How Safaricom can Platform the future of Retail](https://wamburu.codes/Platforming-the-future:-Safaricom)
+<!--START_SECTION:feed-->
+
+<!--END_SECTION:feed-->
 
 <summary><strong>📈 Dev Stats: </strong></summary>
 <br>
