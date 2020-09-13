@@ -18,7 +18,9 @@
 #### 📕 Latest Writings
 
 <!--START_SECTION:posts-->
-...
+* [Platforming the future: Safaricom](https:&#x2F;&#x2F;wamburu.codes&#x2F;Platforming-the-future:-Safaricom)
+* [Media Consumption (Aug 2020)](https:&#x2F;&#x2F;wamburu.codes&#x2F;Media-Consumption-(Aug-2020))
+* [&#x2F;uses](https:&#x2F;&#x2F;wamburu.codes&#x2F;uses)
 <!--END_SECTION:posts-->
 
 <summary><strong>📈 Dev Stats </strong></summary>
