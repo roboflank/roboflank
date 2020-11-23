@@ -24,23 +24,6 @@
 * [&#x2F;uses](https:&#x2F;&#x2F;wamburu.codes&#x2F;uses)
 <!--END_SECTION:posts-->
 
-<summary><strong>📈 Dev Stats </strong></summary>
-<br>
-<table>
-<tr><td>
-
-<!--START_SECTION:waka-->
-```text
-sh           23 hrs 44 mins  █████████████▒░░░░░░░░░░░   52.94 % 
-TypeScript   13 hrs 44 mins  ███████▓░░░░░░░░░░░░░░░░░   30.65 % 
-Python       3 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Other        1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-JavaScript   40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-```
-<!--END_SECTION:waka-->
-
-</td></tr>
-</table>
 <details>
 
 <summary><strong>🎧 Current Media Consumption </strong></summary>
