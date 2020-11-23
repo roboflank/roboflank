@@ -33,16 +33,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wamburu&show_icons=true&count_private=true&theme=merko&hide=contribs" alt="wamburu" /> 
 </a>
 </td><td>
-
-<!--START_SECTION:waka-->
-```text
-sh           23 hrs 44 mins  █████████████▒░░░░░░░░░░░   52.94 % 
-TypeScript   13 hrs 44 mins  ███████▓░░░░░░░░░░░░░░░░░   30.65 % 
-Python       3 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Other        1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-JavaScript   40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-```
-<!--END_SECTION:waka-->
+<a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
+  </a>
 
 </td></tr>
 </table>
