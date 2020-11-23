@@ -29,11 +29,6 @@
 <table>
 <tr><td>
 
-<a>
-  <img src="https://github-readme-stats.vercel.app/api?username=wamburu&show_icons=true&count_private=true&theme=merko&hide=contribs" alt="wamburu" /> 
-</a>
-</td><td>
-
 <!--START_SECTION:waka-->
 ```text
 sh           23 hrs 44 mins  █████████████▒░░░░░░░░░░░   52.94 % 
