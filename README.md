@@ -26,19 +26,9 @@
 
 <summary><strong>📈 Dev Stats </strong></summary>
 <br>
-<table>
-<tr><td>
-
-<a>
-  <img src="https://github-readme-stats.vercel.app/api?username=wamburu&show_icons=true&count_private=true&theme=merko&hide=contribs" alt="wamburu" /> 
-</a>
-</td><td>
 <a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
   </a>
-
-</td></tr>
-</table>
 
 <details>
 
