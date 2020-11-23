@@ -4,7 +4,7 @@
   • <a href="https://twitter.com/denzelwamburu">Twitter</a>
   • <a href="https://wamburu.codes">Blog</a>
   • <a href="https://github.com/wamburu/dotfiles">Dotfiles</a>
-  • <a href="https://resume.wamburu.codes">Resume</a>
+  • <a href="https://cv.wamburu.codes">Resume</a>
 
 </p>
 
