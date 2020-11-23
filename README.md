@@ -26,6 +26,14 @@
 
 <summary><strong>📈 Dev Stats </strong></summary>
 <br>
+<table>
+<tr><td>
+
+<a>
+  <img src="https://github-readme-stats.vercel.app/api?username=wamburu&show_icons=true&count_private=true&theme=merko&hide=contribs" alt="wamburu" /> 
+</a>
+</td><td>
+
 <!--START_SECTION:waka-->
 ```text
 sh           23 hrs 44 mins  █████████████▒░░░░░░░░░░░   52.94 % 
@@ -35,6 +43,9 @@ Other        1 hr 41 mins    █░░░░░░░░░░░░░░░░
 JavaScript   40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 <!--END_SECTION:waka-->
+
+</td></tr>
+</table>
 <details>
 
 <summary><strong>🎧 Current Media Consumption </strong></summary>
