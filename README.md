@@ -1,9 +1,9 @@
-<h2 align="center">Hey, I'm Denzel<img src="https://github.com/wamburu/wamburu/raw/master/assets/hi.gif" width="23px"></h2>
+<h2 align="center">Hey, I'm Denzel<img src="https://github.com/roboflank/roboflank/raw/master/assets/hi.gif" width="23px"></h2>
 
 <p align="center">
   • <a href="https://twitter.com/denzelwamburu">Twitter</a>
   • <a href="https://wamburu.codes">Blog</a>
-  • <a href="https://github.com/wamburu/dotfiles">Dotfiles</a>
+  • <a href="https://github.com/roboflank/dotfiles">Dotfiles</a>
   • <a href="https://cv.wamburu.codes">Resume</a>
 
 </p>
