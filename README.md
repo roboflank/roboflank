@@ -19,10 +19,10 @@
 
 <!--START_SECTION:posts-->
 * [A Mathematician and an Apple](https:&#x2F;&#x2F;wamburu.codes&#x2F;a-mathematician-and-an-apple)
-* [Frontend budget checks with Github Actions Pt.1 - Gimbal](https:&#x2F;&#x2F;wamburu.codes&#x2F;frontend-budget-checks-with-github-actions-pt.1-gimbal)
 * [Wrong Perspectives](https:&#x2F;&#x2F;wamburu.codes&#x2F;wrong-perspectives)
 * [Platforming the future: Safaricom](https:&#x2F;&#x2F;wamburu.codes&#x2F;platforming-the-future:-safaricom)
 * [Media Consumption (Aug 2020)](https:&#x2F;&#x2F;wamburu.codes&#x2F;media-consumption-(aug-2020))
+* [&#x2F;uses](https:&#x2F;&#x2F;wamburu.codes&#x2F;uses)
 <!--END_SECTION:posts-->
 
 <details>
