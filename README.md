@@ -8,12 +8,8 @@
 
 </p>
 
-- 🕵🏿‍♂️ Currently looking for opportunities in **Software Development**;
-- 🌱 Currently learning **Computer Vision, DL & Data Eng**;
 - 💬 Ask me about **Platforms, Alignment Theory, Robotics**;
-- 🤔 Looking for help with **Reinforcement Learning** 👾;
 - ⚙️ Favourite rules of thumb: [Akins](https://spacecraft.ssl.umd.edu/akins_laws.html), [Embedded](https://embeddedartistry.com/blog/2018/04/26/embedded-rules-of-thumb/)
-- ⚡ Fun fact: Love exploring contrarian ideas on how to build the future.
 
 #### 📕 Latest Writings
 
