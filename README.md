@@ -2,9 +2,9 @@
 
 <p align="center">
   • <a href="https://twitter.com/roboflank">Twitter</a>
-  • <a href="https://wamburu.codes">Blog</a>
+  • <a href="https://roboflank.com">Blog</a>
   • <a href="https://github.com/roboflank/dotfiles">Dotfiles</a>
-  • <a href="https://cv.wamburu.codes">Resume</a>
+  • <a href="https://cv.roboflank.com">Resume</a>
 
 </p>
 
