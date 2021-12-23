@@ -6,19 +6,11 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-  update-readme:
-    name: Update Dev time stats
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
   update-writings:
     name: Update Latest writings
     runs-on: ubuntu-latest
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://roboflank.com/rss.xml
+          feed-url: https://roboflank.com/feed
           readme-section: posts
