@@ -14,11 +14,8 @@
 #### 📕 Latest Writings
 
 <!--START_SECTION:posts-->
-* [A Mathematician and an Apple](https:&#x2F;&#x2F;wamburu.codes&#x2F;a-mathematician-and-an-apple)
-* [Wrong Perspectives](https:&#x2F;&#x2F;wamburu.codes&#x2F;wrong-perspectives)
-* [Platforming the future: Safaricom](https:&#x2F;&#x2F;wamburu.codes&#x2F;platforming-the-future:-safaricom)
-* [Media Consumption (Aug 2020)](https:&#x2F;&#x2F;wamburu.codes&#x2F;media-consumption-(aug-2020))
-* [&#x2F;uses](https:&#x2F;&#x2F;wamburu.codes&#x2F;uses)
+* [Backtesting IEO strategies on Kucoin with python - part 1](https:&#x2F;&#x2F;roboflank.com&#x2F;backtesting-ieo-strategies-on-kucoin-with-python-part-1)
+* [A Mathematician and an Apple](https:&#x2F;&#x2F;roboflank.com&#x2F;a-mathematician-and-an-apple)
 <!--END_SECTION:posts-->
 
 <details>
