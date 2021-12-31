@@ -14,7 +14,8 @@
 #### 📕 Latest Writings
 
 <!--START_SECTION:posts-->
-* [Initial Exchange Offerring (IEO) buy and hold strategy backtesting](https:&#x2F;&#x2F;roboflank.com&#x2F;backtesting-ieo-strategies-on-kucoin-with-python-part-1)
+* [bt-ccxt-store fixes for Kucoin &amp; Binance integration](https:&#x2F;&#x2F;roboflank.com&#x2F;bt-ccxt-fixes-for-kucoin)
+* [Initial Exchange Offerring (IEO) buy &amp; hold strategy win-rate](https:&#x2F;&#x2F;roboflank.com&#x2F;backtesting-ieo-strategies-on-kucoin-with-python-part-1)
 * [A Mathematician and an Apple](https:&#x2F;&#x2F;roboflank.com&#x2F;a-mathematician-and-an-apple)
 <!--END_SECTION:posts-->
 
