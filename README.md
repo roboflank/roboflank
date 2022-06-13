@@ -1,4 +1,4 @@
-<h2 align="center">Hey, I'm Denzel<img src="https://github.com/roboflank/roboflank/raw/master/assets/hi.gif" width="23px"></h2>
+<h2 align="center">Hey, I'm Denz</h2>
 
 <p align="center">
   • <a href="https://twitter.com/roboflank">Twitter</a>
