@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Update Readme with blog posts
 
 on:
   # workflow_dispatch:
@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://roboflank.com/feed
+          feed-url: https://roboflank.com/rss.xml
           readme-section: posts
