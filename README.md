@@ -14,11 +14,11 @@
 #### 📕 Latest Writings
 
 <!--START_SECTION:posts-->
-* [Counter to Google’s Search Moats](https:&#x2F;&#x2F;roboflank.com&#x2F;google-search-moats-counter)
-* [Google’s BlackBerry Moment or Microsoft’s Better Mouse Trap?](https:&#x2F;&#x2F;roboflank.com&#x2F;google-blackberry-moment-or-a-better-mouse-trap)
-* [bt-ccxt-store fixes for Kucoin &amp; Binance integration](https:&#x2F;&#x2F;roboflank.com&#x2F;bt-ccxt-fixes-for-kucoin)
-* [Initial Exchange Offerring (IEO) buy &amp; hold strategy win-rate](https:&#x2F;&#x2F;roboflank.com&#x2F;backtesting-ieo-strategies-on-kucoin-with-python-part-1)
-* [A Mathematician and an Apple](https:&#x2F;&#x2F;roboflank.com&#x2F;a-mathematician-and-an-apple)
+* [Poststructural Desires of Red Dead Redemption 2](https:&#x2F;&#x2F;roboflank.com&#x2F;blog&#x2F;post-structural-desires-of-rdr2)
+* [Be like Ted &amp; Ned](https:&#x2F;&#x2F;roboflank.com&#x2F;blog&#x2F;be-like-ted-and-ned)
+* [TikTok’s masked counter-culture](https:&#x2F;&#x2F;roboflank.com&#x2F;blog&#x2F;tiktoks-masked-counter-culture)
+* [Google’s BlackBerry Moment or Microsoft’s Better Mouse Trap?](https:&#x2F;&#x2F;roboflank.com&#x2F;blog&#x2F;google-blackberry-moment-or-a-better-mouse-trap)
+* [Counter to Google’s Search Moats](https:&#x2F;&#x2F;roboflank.com&#x2F;blog&#x2F;google-search-moats-counter)
 <!--END_SECTION:posts-->
 
 <details>
