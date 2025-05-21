@@ -17,8 +17,8 @@
 * [Poststructural Desires of Red Dead Redemption 2](https:&#x2F;&#x2F;roboflank.com&#x2F;blog&#x2F;post-structural-desires-of-rdr2)
 * [Be like Ted &amp; Ned](https:&#x2F;&#x2F;roboflank.com&#x2F;blog&#x2F;be-like-ted-and-ned)
 * [TikTok’s masked counter-culture](https:&#x2F;&#x2F;roboflank.com&#x2F;blog&#x2F;tiktoks-masked-counter-culture)
-* [Counter to Google’s Search Moats](https:&#x2F;&#x2F;roboflank.com&#x2F;blog&#x2F;google-search-moats-counter)
 * [Google’s BlackBerry Moment or Microsoft’s Better Mouse Trap?](https:&#x2F;&#x2F;roboflank.com&#x2F;blog&#x2F;google-blackberry-moment-or-a-better-mouse-trap)
+* [Counter to Google’s Search Moats](https:&#x2F;&#x2F;roboflank.com&#x2F;blog&#x2F;google-search-moats-counter)
 <!--END_SECTION:posts-->
 
 <details>
